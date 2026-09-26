@@ -6,11 +6,12 @@
 
 **The free external for Roblox — ESP, Aim Assist & Movement, by LeitosBase × FallenWare.**
 
-[![Version](https://img.shields.io/badge/version-v0.1.0--alpha-2478CC?style=for-the-badge&labelColor=161b22)](#-roadmap)
+[![Release](https://img.shields.io/github/tag/LeitoQNM/LeiLenWare?style=for-the-badge&label=release&color=2478CC&labelColor=161b22&sort=semver)](https://github.com/LeitoQNM/LeiLenWare/releases)
 [![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=161b22)](https://www.microsoft.com/windows)
 [![Status](https://img.shields.io/badge/status-WIP%20%F0%9F%9A%A7-F0B232?style=for-the-badge&labelColor=161b22)](#-roadmap)
 [![Price](https://img.shields.io/badge/price-FREE%20%F0%9F%86%93-3FB950?style=for-the-badge&labelColor=161b22)](#-features)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=161b22)](https://discord.gg/Dxg8Ayj4RY)
+[![Discord](https://img.shields.io/badge/Discord-FallenWare-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=161b22)](https://discord.gg/Dxg8Ayj4RY)
+[![Discord](https://img.shields.io/badge/Discord-LeitosBase-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=161b22)](https://discord.gg/H72EbznjqP)
 
 <br/>
 
@@ -61,7 +62,7 @@
 
 > [!IMPORTANT]
 > **Not released yet.** LeiLenWare is still in development — the download will be available on the
-> [Discord server](https://discord.gg/Dxg8Ayj4RY) when the first alpha drops.
+> [FallenWare Discord](https://discord.gg/Dxg8Ayj4RY) or the [LeitosBase Discord](https://discord.gg/H72EbznjqP) when the first alpha drops.
 > Windows 10 / 11 required.
 
 ## 👥 Contributors
