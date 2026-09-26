@@ -1,4 +1,8 @@
-eiLenWare
+<div align="center">
+
+<img src="docs/logo.png" width="128" alt="LeiLenWare Logo"/>
+
+# ⚡ LeiLenWare
 
 **The free external for Roblox — ESP, Aim Assist & Movement, by LeitosBase × FallenWare.**
 
@@ -66,23 +70,12 @@ Thanks to everyone who builds LeiLenWare with us! ⚡
 
 <div align="center">
 
-<!-- ✏️ ADD YOURSELF: copy a row, replace the username and role. -->
 | Contributor | Role | GitHub |
 |:---:|:---:|:---:|
 | <img src="https://avatars.githubusercontent.com/u/289518020?v=4" width="52" style="border-radius:50%"/> | 👑 Founder (LeitosBase) | [@LeitoQNM](https://github.com/LeitoQNM) |
-| <img src="https://avatars.githubusercontent.com/u/289518020?v=4" width="52" style="border-radius:50%"/> | 🔥 Co-founder (FallenWare) | [@FallenWare](https://github.com/FallenWare) |
-| <img src="https://avatars.githubusercontent.com/u/1?v=4" width="52" style="border-radius:50%"/> | 💻 Developer | [@your-username](https://github.com/your-username) |
-| <img src="https://avatars.githubusercontent.com/u/1?v=4" width="52" style="border-radius:50%"/> | 🧪 Testing & QA | [@collaborator](https://github.com/collaborator) |
+| <img src="docs/zshift.png" width="52" style="border-radius:50%"/> | 🔥 Owner of FallenWare | **zShift** |
 
 </div>
-
-### 🤝 How to join
-
-1. Fork the repo and create a branch: `git checkout -b feature/my-feature`
-2. Commit your changes and open a Pull Request
-3. Add yourself to the table above in the same PR ✅
-
-[![Contributors](https://img.shields.io/badge/contributors-welcome%20%E2%9A%A1-2478CC?style=for-the-badge&labelColor=161b22)](#-contributors)
 
 ## 📜 Disclaimer
 
