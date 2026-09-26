@@ -74,7 +74,7 @@ Thanks to everyone who builds LeiLenWare with us! ⚡
 | Contributor | Role | GitHub |
 |:---:|:---:|:---:|
 | <img src="https://avatars.githubusercontent.com/u/289518020?v=4" width="52" style="border-radius:50%"/> | 👑 Founder (LeitosBase) | [@LeitoQNM](https://github.com/LeitoQNM) |
-| <img src="zshift.png" width="52" style="border-radius:50%"/> | 🔥 Owner of FallenWare | [@Fallenware](https://github.com/Fallenware) |
+| <img src="zshift.png" width="52" style="border-radius:50%"/> | 🔥 Owner of FallenWare | [@zShift1](https://github.com/zShift1) |
 
 </div>
 
