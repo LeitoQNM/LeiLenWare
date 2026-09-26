@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/logo.png" width="128" alt="LeiLenWare Logo"/>
+<img src="logo.png" width="128" alt="LeiLenWare Logo"/>
 
 # ⚡ LeiLenWare
 
@@ -73,7 +73,7 @@ Thanks to everyone who builds LeiLenWare with us! ⚡
 | Contributor | Role | GitHub |
 |:---:|:---:|:---:|
 | <img src="https://avatars.githubusercontent.com/u/289518020?v=4" width="52" style="border-radius:50%"/> | 👑 Founder (LeitosBase) | [@LeitoQNM](https://github.com/LeitoQNM) |
-| <img src="docs/zshift.png" width="52" style="border-radius:50%"/> | 🔥 Owner of FallenWare | **zShift** |
+| <img src="zshift.png" width="52" style="border-radius:50%"/> | 🔥 Owner of FallenWare | [@Fallenware](https://github.com/Fallenware) |
 
 </div>
 
